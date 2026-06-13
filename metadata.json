@@ -1,6 +1,6 @@
 {
   "name": "AI Center",
   "description": "A high-performance enterprise AI dashboard with a Hyper Neon cyberpunk interface, featuring the Neural Agent Chat Interface.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
